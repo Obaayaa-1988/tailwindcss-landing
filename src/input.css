@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .image{
+    background-image: url(./images/mage2.jpg);
+} */
